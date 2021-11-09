@@ -1,4 +1,6 @@
-About Me
+---
+layout: page
+title: About Me
 ---
 
 My name is Kevin Castro and this is a little bit about me:
